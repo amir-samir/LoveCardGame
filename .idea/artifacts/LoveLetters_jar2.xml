@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LoveLetters:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoveLetters_jar2</output-path>
+    <root id="archive" name="LoveLetters.jar">
+      <element id="module-output" name="LoveLetters" />
+    </root>
+  </artifact>
+</component>
